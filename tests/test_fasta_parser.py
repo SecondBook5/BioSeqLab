@@ -1,7 +1,7 @@
 #test_fasta_parser.py
 #contains test for the FASTA file parser
 import unittest
-from dna_analyzer.fasta_parser import FastaParser 
+from seq_analyzer.parsers.fasta_parser import FastaParser 
 
 class TestFastaParser(unittest.TestCase):
     def setUp(self):

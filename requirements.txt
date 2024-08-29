@@ -1,0 +1,23 @@
+# Biopython for sequence parsing
+biopython
+
+# Matplotlib for plotting sequence length distributions
+matplotlib
+
+# Instructions:
+# To install the required dependencies for this project, follow these steps:
+#
+# 1. Open your terminal or command prompt:
+#    - Navigate to the root directory of your project where `requirements.txt` is located.
+#
+# 2. Install the dependencies:
+#    - Run the following command to install all the necessary Python packages:
+#
+#      pip install -r requirements.txt
+#
+# 3. Verify the installation:
+#    - After the installation completes, you can verify that the packages were installed successfully by running:
+#
+#      pip list
+#
+#    This will display a list of installed packages, including `biopython` and `matplotlib`.
